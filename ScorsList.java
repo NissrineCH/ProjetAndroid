@@ -1,4 +1,4 @@
-package com.example.yassine.test;
+package com.example.nissrine.test;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.MenuItem;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.example.yassine.test.persistance.ReadWriteData;
+import com.example.nissrine.test.persistance.ReadWriteData;
 
 import java.io.IOException;
 import java.util.ArrayList;
