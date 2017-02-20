@@ -1,5 +1,4 @@
-package com.example.yassine.test;
-
+package com.example.nissrine.test;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.media.MediaPlayer;
@@ -18,8 +17,8 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.example.yassine.test.persistance.ReadWriteData;
-import com.example.yassine.test.view.ColorMatchGridViewAdapter;
+import com.example.n.test.persistance.ReadWriteData;
+import com.example.nissrine.test.view.ColorMatchGridViewAdapter;
 
 import java.util.ArrayList;
 import java.util.Hashtable;
