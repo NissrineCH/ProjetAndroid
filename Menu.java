@@ -1,4 +1,4 @@
-package com.example.yassine.test;
+package com.example.nissrine.test;
 
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.example.yassine.test.persistance.ReadWriteData;
+import com.example.nissrine.test.persistance.ReadWriteData;
 
 import java.io.IOException;
 
