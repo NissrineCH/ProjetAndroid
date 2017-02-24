@@ -1,4 +1,4 @@
-package com.example.yassine.test;
+package com.example.nissrine.test;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
