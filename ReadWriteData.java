@@ -1,4 +1,4 @@
-package com.example.yassine.test.persistance;
+package com.example.nissrine.test.persistance;
 
 import android.content.Context;
 import android.util.Log;
@@ -10,9 +10,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-/**
- * Created by yassine on 19/12/16.
- */
+
 
 public class ReadWriteData {
 
