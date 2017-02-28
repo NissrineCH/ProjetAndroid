@@ -14,7 +14,7 @@ import com.example.nissrine.test.persistance.ReadWriteData;
 import java.io.IOException;
 
 /**
- * Created by yassine on 12/12/16.
+ * Created by nissrine on 12/12/16.
  */
 
 public class ColorMatchGridViewAdapter extends BaseAdapter {
