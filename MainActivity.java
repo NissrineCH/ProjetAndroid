@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
         dialog.show();//afficher le dialog
     }
 
-    //Fonction permet de supprimer les Item dans les positions "positions[]" et ont les mêmes coleurs
+    //Fonction permet de supprimer les Items dans les positions "positions[]" et ont les mêmes coleurs
     private void removeItems(long[] ids, int[] positions) {
         //Tableau pour stocker le premier ensemble des Items ont la même coleur
         Map<Integer, Long> sames1 = new Hashtable<>();
